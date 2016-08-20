@@ -1,0 +1,23 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "3.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GA1/Playground.git"
+  },
+  "author": "Kamil Nguyen Van",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GA1/Playground/issues"
+  },
+  "homepage": "https://github.com/GA1/Playground#readme"
+}
